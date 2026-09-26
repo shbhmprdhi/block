@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.block.fitness"
-    compileSdk = 36
+    compileSdk = 37
 
     defaultConfig {
         applicationId = "com.block.fitness"
